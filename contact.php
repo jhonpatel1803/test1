@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello i am about page</h1>
+    <h1>hello i am contact page</h1>
+    <h2>contact second line</h2>
 </body>
 </html>

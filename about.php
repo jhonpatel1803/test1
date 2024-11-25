@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hello I m About page.</h1>
+    <h2>about second page</h2>
 </body>
 </html>
